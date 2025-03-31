@@ -15,9 +15,9 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing <code>src/app/page.js</code>.
+            blah blah blah <code>src/app/page.js</code>.
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Debate.</li>
         </ol>
 
         <div className={styles.ctas}>
@@ -34,7 +34,7 @@ export default function Home() {
               width={20}
               height={20}
             />
-            Deploy now
+            This is Surya 
           </a>
           <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
